@@ -1,5 +1,5 @@
 # logo_image-search_image-similary
 The easiest pipe line for image search
 
-# commy
-hi
+## Augmentation
+- Rotate image
