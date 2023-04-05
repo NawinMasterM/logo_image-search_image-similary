@@ -10,4 +10,4 @@ The easiest pipe line for image search
 
 ## Model
 - Sentence Similarity to extract feature
-- Annoy Index for cosine similarity
+- Annoy Index for image similarity
